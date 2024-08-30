@@ -4,7 +4,7 @@ function Footer(){
       <footer>
         <div className="logo-background p-5">
           <div className="container px-3 text-start">
-            <div className="row row-cols-1 row-cols-sm-1 row-cols-md-4 gap-3">
+            <div className="row row-cols-1 row-cols-sm-1 row-cols-md-4">
 
               {/* Column 1 - CSS logo */}
               <div className="col">            
