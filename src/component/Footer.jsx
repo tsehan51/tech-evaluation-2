@@ -9,7 +9,7 @@ function Footer(){
               {/* Column 1 - CSS logo */}
               <div className="col">            
                 <a href="https://cssocietyusm.com/" target="_blank">
-                  <img src="/assets/logo/cs-soc-official.svg" alt="USM CS Society Logo" className="img-fluid css-logo-img" />
+                  <img src="logo/cs-soc-official.svg" alt="USM CS Society Logo" className="img-fluid css-logo-img" />
                 </a>         
               </div>
 
@@ -50,10 +50,10 @@ function Footer(){
               {/* Column 4 - USM logo */}
               <div className="col">
                 <a href="https://cs.usm.my/" target="_blank">
-                  <img src="/assets/logo/CS-logo-transparent.svg" alt="USM CS School Logo" className="img-fluid cs-logo-img mb-3" />
+                  <img src="logo/CS-logo-transparent.svg" alt="USM CS School Logo" className="img-fluid cs-logo-img mb-3" />
                 </a>
                 <a href="https://usm.my/" target="_blank">
-                  <img src="/assets/logo/USM-color.svg" alt="USM Logo" className="img-fluid usm-color-img" />
+                  <img src="logo/USM-color.svg" alt="USM Logo" className="img-fluid usm-color-img" />
                 </a>
               </div>
 
