@@ -5,7 +5,7 @@ function Navbar(){
         <div className="container-fluid d-flex justify-content-between align-items-center">
           <a className="navbar-brand m-0 p-0" href="https://cssocietyusm.com/">
             <div className="p-2 d-flex align-items-center gap-4 ">
-              <object data="../src/assets/logo/cs-soc-official.svg" type="image/svg+xml" title="CS Society Logo" height="64px" width="64px"></object>
+              <object data="/assets/logo/cs-soc-official.svg" type="image/svg+xml" title="CS Society Logo" height="64px" width="64px"></object>
               <div className="text-start fw-bold text-white fs-6 font-logo">
                 <div>USM COMPUTER</div>
                 <div>SCIENCE SOCIETY</div>

@@ -15,7 +15,7 @@ function EventCard(){
           <div className="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
             <div className="card h-100 position-relative shadow d-flex flex-column">
                 <div className="position-relative">
-                    <img src="../src/assets/events/lon-2024-poster.webp" className="card-img-top" alt="Log Off Night 2024 image" />
+                    <img src="/assets/events/lon-2024-poster.webp" className="card-img-top" alt="Log Off Night 2024 image" />
                     <div className="position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center w-100 h-100">
                       <a href="https://cssocietyusm.com/events/2023-2024/lon-2024/">
                         <button type="button" className="btn btn-success see-more-btn">See more</button>
@@ -43,7 +43,7 @@ function EventCard(){
           <div className="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
             <div className="card h-100 position-relative shadow-sm d-flex flex-column">
                 <div className="position-relative">
-                    <img src="../src/assets/events/pixel-2024-poster.webp" className="card-img-top" alt="PIXEL 2024 image" />
+                    <img src="/assets/events/pixel-2024-poster.webp" className="card-img-top" alt="PIXEL 2024 image" />
                     <div className="position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center w-100 h-100">
                       <a href="https://cssocietyusm.com/events/2023-2024/pixel-2024/">
                         <button type="button" className="btn btn-success see-more-btn">See more</button>
@@ -71,7 +71,7 @@ function EventCard(){
           <div className="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
             <div className="card h-100 position-relative shadow-sm d-flex flex-column">
                 <div className="position-relative">
-                    <img src="../src/assets/events/agm-2024-poster.webp" className="card-img-top" alt="Annual General Meeting 2024 image" />
+                    <img src="/assets/events/agm-2024-poster.webp" className="card-img-top" alt="Annual General Meeting 2024 image" />
                     <div className="position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center w-100 h-100">
                       <a href="https://cssocietyusm.com/events/2023-2024/agm-2024/">
                         <button type="button" className="btn btn-success see-more-btn">See more</button>
@@ -99,7 +99,7 @@ function EventCard(){
           <div className="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
             <div className="card h-100 position-relative shadow-sm d-flex flex-column">
                 <div className="position-relative">
-                    <img src="../src/assets/events/vhack-2024-poster.webp" className="card-img-top vhack-img" alt="Varsity Hackathon 2024 image" />
+                    <img src="/assets/events/vhack-2024-poster.webp" className="card-img-top vhack-img" alt="Varsity Hackathon 2024 image" />
                     <div className="position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center w-100 h-100">
                       <a href="https://cssocietyusm.com/events/2023-2024/vhack-2024/">
                         <button type="button" className="btn btn-success see-more-btn">See more</button>
@@ -127,7 +127,7 @@ function EventCard(){
           <div className="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
             <div className="card h-100 position-relative shadow-sm d-flex flex-column">
                 <div className="position-relative">
-                    <img src="../src/assets/events/sukapps-2024-poster.webp" className="card-img-top" alt="Sukan Antara Pusat Pengajian Sains 2024 image" />
+                    <img src="/assets/events/sukapps-2024-poster.webp" className="card-img-top" alt="Sukan Antara Pusat Pengajian Sains 2024 image" />
                     <div className="position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center w-100 h-100">
                       <a href="https://cssocietyusm.com/events/2023-2024/sukapps-2024/">
                         <button type="button" className="btn btn-success see-more-btn">See more</button>
@@ -155,7 +155,7 @@ function EventCard(){
           <div className="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
             <div className="card h-100 position-relative shadow-sm d-flex flex-column">
                 <div className="position-relative">
-                    <img src="../src/assets/events/frostynight-2023-poster.webp" className="card-img-top" alt="Frosty Fantasy Night 2023 image" />
+                    <img src="/assets/events/frostynight-2023-poster.webp" className="card-img-top" alt="Frosty Fantasy Night 2023 image" />
                     <div className="position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center w-100 h-100">
                       <a href="https://cssocietyusm.com/events/2023-2024/frostynight-2023/">
                         <button type="button" className="btn btn-success see-more-btn">See more</button>
@@ -183,7 +183,7 @@ function EventCard(){
           <div className="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
             <div className="card h-100 position-relative shadow-sm d-flex flex-column">
                 <div className="position-relative">
-                    <img src="../src/assets/events/me2-2024-poster.webp" className="card-img-top" alt="Major Minor Exploration Event 2024 image" />
+                    <img src="/assets/events/me2-2024-poster.webp" className="card-img-top" alt="Major Minor Exploration Event 2024 image" />
                     <div className="position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center w-100 h-100">
                       <a href="https://cssocietyusm.com/events/2023-2024/me2-2024/">
                         <button type="button" className="btn btn-success see-more-btn">See more</button>
@@ -211,7 +211,7 @@ function EventCard(){
           <div className="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
             <div className="card h-100 position-relative shadow-sm d-flex flex-column">
                 <div className="position-relative">
-                    <img src="../src/assets/events/vcsirf-2023-poster.webp" className="card-img-top" alt="Virtual Computer Science Internship &#38; Recruitment Fair 2023 image"/>
+                    <img src="/assets/events/vcsirf-2023-poster.webp" className="card-img-top" alt="Virtual Computer Science Internship &#38; Recruitment Fair 2023 image"/>
                     <div className="position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center w-100 h-100">
                       <a href="https://cssocietyusm.com/events/2023-2024/vcsirf-2023/">
                         <button type="button" className="btn btn-success see-more-btn">See more</button>
@@ -239,7 +239,7 @@ function EventCard(){
           <div className="col-lg-4 col-md-6 col-sm-12 mb-4 d-flex">
             <div className="card h-100 position-relative shadow-sm d-flex flex-column">
                 <div className="position-relative">
-                    <img src="../src/assets/events/csbersamamu-2023-poster.webp" className="card-img-top" alt="CS Bersamamu 2023 image" />
+                    <img src="/assets/events/csbersamamu-2023-poster.webp" className="card-img-top" alt="CS Bersamamu 2023 image" />
                     <div className="position-absolute top-50 start-50 translate-middle d-flex justify-content-center align-items-center w-100 h-100">
                       <a href="https://cssocietyusm.com/events/2023-2024/csbersamamu-2023/">
                         <button type="button" className="btn btn-success see-more-btn">See more</button>
