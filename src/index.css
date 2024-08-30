@@ -1,0 +1,131 @@
+body{
+  font-family: 'Roboto', sans-serif !important;
+  background-color: #f8f9fa;
+}
+
+h6{
+  font-size: 0.9rem;
+  font-weight: bold;
+}
+
+.font-logo{
+  font-family: 'Roboto Condensed', 'Roboto', sans-serif;
+}
+
+.dropdown-item:hover{
+   background-color: hsl(186, 64%, 23%);
+}
+
+.border-custom {
+  border-bottom: 4px solid #18646c;
+}
+
+.card-body a {
+  text-decoration: none; /* Remove underline */
+  color: inherit; /* Inherit color from parent, or set to desired color */
+}
+
+.cards-body-width{
+  max-width: 80rem;
+}
+
+.card-img-top{
+  object-fit: cover; 
+  object-position: 50% 40%;
+  height: 250px;
+}
+
+.vhack-img {
+  object-fit: cover; /* Adjust as needed */
+  object-position: 50% 75%; /* Example adjustment */
+  height: 250px; /* Adjust height if necessary */
+}
+
+.border-date{
+  border-bottom: 4px solid hsl(186, 64%, 30%);
+  display: inline-flex;
+  width: fit-content;
+  transition: color 0.25s;
+}
+
+.card:hover .border-date{
+  border-color: hsl(186, 64%, 18%);
+}
+
+.card {
+  position: relative; /* Ensure the card is positioned relative to position child elements */
+  transition: opacity 0.25s box-shadow 0.25s transform 0.6s ease; 
+  background-color: #f8f9fa;
+  border-radius: 1rem;
+  overflow: hidden;
+}
+
+.card:hover {
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2) !important; /* Shadow effect on hover */
+  transform: scale(1.01);
+}
+
+.card img {
+  transition: opacity 0.4s; /* Smooth transition for image opacity */
+}
+
+.card:hover img {
+  opacity: 0.8; /* Adjust the opacity of the image on hover */
+}
+
+.see-more-btn {
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.25s, visibility 0.25s, transform 0.25s; /* Smooth transition for opacity, visibility, and transform */
+}
+
+.card:hover .see-more-btn {
+  opacity: 0.9;
+  visibility: visible;
+}
+
+.see-more-btn:hover {
+  transform: scale(1.2); /* Smooth scaling effect on hover */
+}
+
+
+.logo-background{
+  background-color: #e9ecef;
+}
+
+.css-logo-img{
+  height: 96px;
+  transition: transform 0.4s;
+}
+
+.cs-logo-img, .usm-color-img {
+  height: 48px;
+  transition: transform 0.4s;
+}
+
+.css-logo-img:hover,
+.cs-logo-img:hover,
+.usm-color-img:hover {
+  transform: scale(1.1);
+}
+
+.navigate-body{
+  font-size: 0.9rem;
+  text-decoration: none;
+}
+
+.navigate-body:hover{
+  text-decoration: underline;
+}
+
+.social-icon {
+  transition: transform 0.4s;
+}
+
+.social-icon:hover {
+  transform: scale(1.2); /* Darker color on hover, change as needed */
+}
+
+.copyright-background{
+  background-color: hsl(49, 100%, 61%);
+}
